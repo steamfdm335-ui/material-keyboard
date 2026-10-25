@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.MaterialKeyboard" parent="Theme.Material3.DynamicColors.DayNight.NoActionBar" />
+</resources>
